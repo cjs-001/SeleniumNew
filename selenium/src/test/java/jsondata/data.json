@@ -1,0 +1,26 @@
+{
+    "Company": {
+        "Employee1": {
+            "FirstName": "Tanmay",
+            "LastName": "Patil",
+            "ContactNo": "1234567890",
+            "Email": "tanmaypatil@xyz.com",
+            "Address": {
+                "City": "Bangalore",
+                "State": "Karnataka",
+                "Zip": "560212"
+            }
+        },
+        "Employee2": {
+            "FirstName": "charan",
+            "LastName": "js",
+            "ContactNo": "1234566",
+            "Email": "charan@xyz.com",
+            "Address": {
+                "City": "hassan",
+                "State": "Karnataka",
+                "Zip": "573103"
+            }
+            }
+    }
+}
